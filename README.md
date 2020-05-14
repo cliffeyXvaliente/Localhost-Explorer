@@ -1,6 +1,6 @@
 # localhost4u
 
-This project is made for you web developers who want to have a better UI file Manager on your browser. 
+This project is made for you web developers who want to have a better UI file Manager on your CHROME browser. 
 
 ## Installation
 
