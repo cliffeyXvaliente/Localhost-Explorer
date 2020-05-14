@@ -4,7 +4,7 @@ This project is made for you web developers who want to have a better UI file Ma
 
 ## Installation
 
-Download my project. Unzip the file and put/paste in the items (index.php , style.css & sky.jpg) on your folder htdocs or www / aka. "localhost" (127.0.0.1).
+Download my project. Unzip the file and put/paste in the files on your folder htdocs or www / aka. "localhost" (127.0.0.1).
 Any other index file you own remove or transfer it to another file or create a folder for it on the localhost page.
 Your folders can be kept on the localhost folder. 
 Paste the files that you download and have your folders organized. 
