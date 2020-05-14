@@ -1,0 +1,171 @@
+/*! THIS PROJECT IS CREATED BY CLIFFORD VALIENTE 
+/*! THIS IS A OPEN SOURCE CODE 
+/*! IF YOU WANT TO CONTRIBUTE FOR THIS PROJECT PLEASE FEEL FREE
+/*! JOIN MY PROJECT IN GITHUB https: //github.com/vncliffy/localhost4u */
+    
+
+body {
+
+    padding: 0;
+    margin : 0;
+    border : 0;
+
+}
+
+
+.cover {
+
+    height             : 100vh;
+    width              : 100%;
+    background         : url("sky.jpg");
+    background-position: center;
+    background-repeat  : no-repeat;
+    background-size    : cover;
+}
+
+/*! BLACK COVER FOR WALLPAPER BACKGROUND */
+
+.black {
+
+    background-color: rgba(20, 20, 20, 0.582);
+    height          : 100vh;
+    width           : 100%;
+    z-index         : -1;
+
+}
+
+.content {
+
+    height     : 100vh;
+    width      : 100%;
+    display    : flex;
+    align-items: center;
+
+}
+
+/* LEFT BOX */
+
+.left {
+
+    width          : 50%;
+    height         : 100vh;
+    justify-content: center;
+    align-items    : center;
+    display        : flex;
+
+}
+
+.title {
+
+    background             : -webkit-linear-gradient(#ffc500, #c21500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align             : center;
+    font-family            : 'Kaushan Script', cursive;
+    font-size              : 1.5rem;
+
+}
+
+/* RIGHT BOX */
+.right {
+    width          : 50%;
+    height         : 100vh;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+
+}
+
+.title2 {
+
+    text-align: left;
+    font-size : 1.5rem;
+    height    : auto;
+    width     : 70%;
+
+}
+
+.titlecolor2 {
+    font-family            : 'Homenaje', sans-serif;
+    font-size              : 4.8rem;
+    margin                 : 0;
+    padding                : 2rem;
+    background             : -webkit-linear-gradient(#00dbde, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+/* php content */
+.php {
+
+    text-decoration-line: none;
+    font-family         : 'Homenaje', sans-serif;
+    letter-spacing      : 0.1rem;
+    font-size           : 2rem;
+    overflow            : auto;
+    height              : 30rem;
+    width               : 30rem;
+
+}
+
+.php ul {
+    overflow: auto;
+}
+
+.listphp {
+    list-style: none;
+    text-align: left;
+
+}
+
+.listphp a {
+
+    text-decoration        : none;
+    line-height            : 3.8rem;
+    background             : -webkit-linear-gradient(#00dbde, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size              : 1.8rem;
+    letter-spacing         : 0.1rem;
+
+}
+
+.listphp a:active {
+    background             : -webkit-linear-gradient(#ffc500, #c21500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size              : 1.8rem;
+    letter-spacing         : 0.1rem;
+}
+
+.filesonly {
+
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+    height         : fit-content;
+
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+    width : 0.2rem;
+    height: 0.2rem;
+}
+
+::-webkit-scrollbar-track {
+    border       : 1rem solid darkslateblue;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background   : white;
+    border-radius: 15px;
+}
+
+
+/*? I YOU TO CONTRIBUTE FOR BETTER UI EXPERIENCE FEEL FREE TO JOIN IN THIS PROJECT */
+/*? https: //github.com/vncliffy/localhost4u _____________________________________ */
+/*? Made by Clifford Valiente  :D _________________________________________________*/
+
