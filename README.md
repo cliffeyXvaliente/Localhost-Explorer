@@ -4,10 +4,10 @@ This project is made for you web developers who want to have a better UI file Ma
 
 ## Installation
 
-Download my project. Unzip the file and put/paste in the files on your folder htdocs or www / aka. "localhost" (127.0.0.1).
-Any other index file you own remove or transfer it to another file or create a folder for it on the localhost page.
-Your folders can be kept on the localhost folder. 
-Paste the files that you download and have your folders organized. 
+Download my project. Unzip and put/paste in the files on your folder htdocs or www / aka. "localhost" (127.0.0.1).
+Any other index file you own remove or transfer it to another folder or create a folder for it in the localhost folder.
+Your folders can be kept in the localhost folder. 
+Paste the files that you downloaded and have your folders organized. 
 To see your folders on your browser, start your AMP and type on the url "localhost".
 It may vary to what AMP ( Apache, Mysql, and PHP) you have XAMPP, WAMP, LAMP, MAMP
 
