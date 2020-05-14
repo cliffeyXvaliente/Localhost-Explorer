@@ -1,6 +1,6 @@
 # localhost4u
 
-This project is made for you web developers who want to have a better UI file on your browser. 
+This project is made for you web developers who want to have a better UI file Manager on your browser. 
 
 ## Installation
 
@@ -16,6 +16,10 @@ Thats all :)
 I hope you have a nice day and have fun coding dear Developer :P
 
 This project will continue bringing new features on the future updates ^^ feel free to watch or follow my repository ^-^
+
+#Version
+
+This project is still in beta version 1.1
 
 ```
 
