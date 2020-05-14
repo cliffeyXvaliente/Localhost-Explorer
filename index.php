@@ -4,8 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Localhost</title>
-
+	
+	<title>Localhost</title>	
+	<!-- Version beta version 1.1 -->
+	
 	<!-- Refresh Browser every 40s -->
 	<meta http-equiv="refresh" content="40">
 	<!-- Info creator -->
