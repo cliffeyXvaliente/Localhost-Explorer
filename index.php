@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Localhost</title>
 
-	<!-- Refresh Browser every 20s -->
-	<meta http-equiv="refresh" content="20">
+	<!-- Refresh Browser every 40s -->
+	<meta http-equiv="refresh" content="40">
 	<!-- Info creator -->
 	<meta name="author" content="Clifford Valiente Nacuray">
 	<meta name="description" content="Free UI localhost">
