@@ -1,4 +1,4 @@
-# localhost4u
+# Localhost Explorer
 
 This project is made for a better UI file Manager on your localhost. 
 
