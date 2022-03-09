@@ -34,6 +34,6 @@ Free Open Source Code!
 #### Language and programs used so far
 - Php
 - Html
-- Scss
+- Css
 
 ### Enjoy!
