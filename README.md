@@ -4,7 +4,7 @@ Clean file & folder manager for localhost
 
 ### About
 
-This project is made for a better UI file Manager on your localhost.
+Make localhost better again! Better UI file Manager for your localhost.
 Created in 2019-2020.
 
 
