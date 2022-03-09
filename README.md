@@ -1,34 +1,39 @@
-# Localhost Explorer
+# Localhost clean file manager
 
-This project is made for a better UI file Manager on your localhost. 
+Clean file & folder manager for localhost
 
-## Installation
+### About
 
-Download this repo or clown. Unzip and copy-paste the files on your folder htdocs or www / "localhost" (127.0.0.1).
-Any other index file you own remove or transfer it to another folder or create a folder for it in the localhost folder.
-Your folders can be kept in the localhost folder. 
+This project is made for a better UI file Manager on your localhost.
+Created in 2019-2020.
+
+
+### Installation
+
+
+> git clone [repo-url]
+
+```
+Download this repo or clone. Unzip and copy-paste the files on your folder htdocs or www aka "localhost" directory. 
+Kindly move all the files to a folder before copy-pasting the files to the localhost directory to avoid any errors.
+
+Any other indexes files you own, remove or transfer to another folder.
+Once finished copy-pasting, you can move the folders to the localhost folder. 
+
 Paste the files that you downloaded and have your folders organized. 
-To see your folders on your browser,open your localhost directory on your browser.
-It may vary to what AMP ( Apache, Mysql, and PHP) you have XAMPP, WAMP, LAMP, MAMP.
+To see your folders on your browser, open your localhost address on your browser by typing (without quotes) "http://localhost/".
 
-Thats all :) 
-
-I hope you have a nice day and have fun coding dear Developer :P
-
-This repo will continue bringing new features on the upcomming updates ^-^ feel free to contribute or follow my repository 
-
-#Version
-
-Beta version 1.1
+Check the documentation for the type of cross-platform web server for troubleshooting.   
 
 ```
 
-## Contributing
+### Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or have. 
+Free Open Source Code! 
 
-## Author Creator
+#### Language and programs used so far
+- Php
+- Html
+- Scss
 
-Clifford Valiente
-
-www.cliffordvaliente.com
+### Enjoy!
